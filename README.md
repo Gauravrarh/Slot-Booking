@@ -24,14 +24,22 @@ The system enables sales teams to allocate slots dynamically while preventing ov
 
 #Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+# 📸 Screenshots
 
-### Slot Booking
-![Booking](screenshots/booking.png)
+Dashboard
+![Dashboard](Images/Slot_Overview.png)
 
-### Execution Panel
-![Execution](screenshots/execution.png)
+Slot Booking
+![Slot Booking](Images/Book_Slot.png)
+
+Execution Panel
+![Execution Panel](Images/Execution_Panel.png)
+
+Slot Control
+![Slot Control](Images/Slot_Control.png)
+
+Login Page
+![Login Page](Images/Login_Page.png)
 
 #Business Workflow
 
