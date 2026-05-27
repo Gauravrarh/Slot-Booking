@@ -26,6 +26,9 @@ The system enables sales teams to allocate slots dynamically while preventing ov
 
 # 📸 Screenshots
 
+Login Page
+![Login Page](Images/Login_Page.png)
+
 Dashboard
 ![Dashboard](Images/Slot_Overview.png)
 
@@ -37,9 +40,6 @@ Execution Panel
 
 Slot Control
 ![Slot Control](Images/Slot_Control.png)
-
-Login Page
-![Login Page](Images/Login_Page.png)
 
 #Business Workflow
 
